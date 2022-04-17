@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/01.exe.dir/01.cpp.o  -o 01.exe  -lQuantLib 

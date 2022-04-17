@@ -1,0 +1,3 @@
+/home/yefe/projects/test/test-reload/build/CMakeFiles/rebuild_cache.dir
+/home/yefe/projects/test/test-reload/build/CMakeFiles/edit_cache.dir
+/home/yefe/projects/test/test-reload/build/CMakeFiles/main.exe.dir

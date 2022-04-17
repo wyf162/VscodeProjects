@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yefe/projects/leetcode/problem-sting/537-complex-number-multiply/main.cpp
+iostream
+-
+string
+-
+vector
+-
+regex
+-
+

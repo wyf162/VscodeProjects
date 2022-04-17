@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yefe/projects/interview/qunat-pi/main.cpp
+sstream
+-
+fstream
+-
+string
+-
+vector
+-
+iostream
+-
+unordered_map
+-
+

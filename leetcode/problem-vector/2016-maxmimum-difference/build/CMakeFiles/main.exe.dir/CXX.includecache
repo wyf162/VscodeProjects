@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yefe/projects/leetcode/problem-vector/2016-maxmimum-difference/main.cpp
+iostream
+-
+stack
+-
+vector
+-
+

@@ -1,0 +1,3 @@
+/home/yefe/projects/interview/qunat-pi/build/CMakeFiles/rebuild_cache.dir
+/home/yefe/projects/interview/qunat-pi/build/CMakeFiles/edit_cache.dir
+/home/yefe/projects/interview/qunat-pi/build/CMakeFiles/main.exe.dir
