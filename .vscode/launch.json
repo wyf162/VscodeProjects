@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "C/C++: clang++ build active file",
-            "type": "cppdbg",
+            "type": "lldb",
             "request": "launch",
             "program": "${fileDirname}/${fileBasenameNoExtension}.exe",
             "args": [],
@@ -28,7 +28,7 @@
                 }
             ],
             "preLaunchTask": "C/C++: clang++ build active file",
-            "miDebuggerPath": "/usr/bin/gdb"
+            "miDebuggerPath": "/usr/lib/llvm-15/bin"
         }
     ]
 }
